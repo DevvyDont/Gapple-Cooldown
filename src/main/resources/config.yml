@@ -1,0 +1,4 @@
+cooldown: 30
+onCooldownMessage: "&cGapples are on cooldown! Please wait &f{TIME_LEFT} &cseconds!"
+wantEnterCooldownMessage: false
+enterCooldownMessage: "&6You ate a gapple! You cannot eat another for &f{TIME_LEFT} &6seconds!"

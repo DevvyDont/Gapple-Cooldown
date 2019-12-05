@@ -1,0 +1,11 @@
+name: GappleCooldown
+version: 1.0
+main: io.github.devvydoo.gapplecooldown.GappleCooldown
+api-version: 1.13
+permissions:
+  gappcooldown.admin:
+    default: op
+commands:
+  gcreload:
+    description: Reloads the configuration file for GappleCooldown.
+    permission: gappcooldown.admin
